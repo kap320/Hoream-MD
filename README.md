@@ -31,7 +31,7 @@ $ pm2 start "npm start" && pm2 [token] && pm2 save && pm2 logs
 [`Beli Disini`](https://wa.me/6281326865288?text=Bang+Mau+Beli+Heroku)
 
 ## Ingin Beli Gh Student Murah ?
-[`Beli Disini`](https://wa.me/6285842647866?text=Bang+Mau+Beli+Akun+Gh+Student)
+[`Beli Disini`](https://wa.me/6281326865288?text=Bang+Mau+Beli+Akun+Gh+Student)
 
 ## Group Discussion
 - Join grup dibawah jika kamu ada pertanyaan, kamu bertanya-tanya?.

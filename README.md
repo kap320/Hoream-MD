@@ -87,7 +87,7 @@ npm install && npm update
 ```bash
 apt update && apt upgrade
 apt install git nodejs ffmpeg -y
-git clone https://github.com/BOTCAHX/Hoream-MD 
+git clone https://github.com/kap320/Hoream-MD 
 cd Hoream-MD 
 npm install && npm update
 ```

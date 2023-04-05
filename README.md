@@ -7,7 +7,7 @@ saya hanya memperbaiki sebagian fitur yg error.
 <p align="center">
 	<img src="https://telegra.ph/file/2f2dff89c65c9e5a1dddc.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">BOTCAHX</h1>
+<h1 align="center">shanachan</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -28,14 +28,14 @@ $ pm2 start "npm start" && pm2 [token] && pm2 save && pm2 logs
 [`Deploy Now`](https://www.uffizzi.com/)
 
 ## Ingin Hosting Di Heroku Lagi?
-[`Beli Disini`](https://wa.me/6285842647866?text=Bang+Mau+Beli+Heroku)
+[`Beli Disini`](https://wa.me/6281326865288?text=Bang+Mau+Beli+Heroku)
 
 ## Ingin Beli Gh Student Murah ?
 [`Beli Disini`](https://wa.me/6285842647866?text=Bang+Mau+Beli+Akun+Gh+Student)
 
 ## Group Discussion
 - Join grup dibawah jika kamu ada pertanyaan, kamu bertanya-tanya?.
-[`Group Link`](https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r)
+[`Group Link`](https://wa.me/6281326865288)
 ## My Project
 * Script Plugins [`Go here`](https://github.com/BOTCAHX/RTXZY-MD) (`Multiple Sessions Bot`)
 * Original Script [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (Sc Original)
@@ -43,7 +43,7 @@ $ pm2 start "npm start" && pm2 [token] && pm2 save && pm2 logs
 
 ## Setting Autotyping & Recording
 - Tambahkan tanda ```[/**] ``` dan ``` [**/]```  untuk mengaktifkan atau menonaktifkan fitur tersebut
-- Edit Di Baris [`Line`](https://github.com/BOTCAHX/Hoream-MD/blob/609bb8e1690bece0460f05250fd9f59e1fb25dba/tio.js#L189)
+- Edit Di Baris [`Line`](https://github.com/kap320/Hoream-MD/blob/609bb8e1690bece0460f05250fd9f59e1fb25dba/tio.js#L189)
 - Contoh Mematikan Fitur:
 ```bash
 
@@ -77,7 +77,7 @@ tio.readMessages([m.key])
 
 
 ```bash
-git clone https://github.com/BOTCAHX/Hoream-MD 
+git clone https://github.com/kap320/Hoream-MD 
 cd Hoream-MD 
 npm install && npm update
 ```
@@ -114,5 +114,5 @@ $ npm start
 * [`AzRyCb`](https://github.com/AzRyCb)
 * [`ERLANRAHMAT`](https://github.com/ERLANRAHMAT)
 * [`Rizal`](https://github.com/rizal333)
-
+* [`shanachan`](https://github.com/shanachan)
 ```Thanks to all who have participated in the development of this script```
